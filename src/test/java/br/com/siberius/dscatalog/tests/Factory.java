@@ -1,6 +1,5 @@
 package br.com.siberius.dscatalog.tests;
 
-
 import br.com.siberius.dscatalog.dto.ProductDTO;
 import br.com.siberius.dscatalog.entities.Category;
 import br.com.siberius.dscatalog.entities.Product;
